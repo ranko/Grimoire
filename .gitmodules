@@ -1,0 +1,3 @@
+[submodule "world/src/main/cpp/world"]
+	path = world/src/main/cpp/world
+	url = https://github.com/mmorise/World.git
